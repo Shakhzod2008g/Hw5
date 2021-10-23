@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+th{
+    border: black solid 1px;
+    padding: 20px;
+    font-family:  'Shadows Into Light', cursive;
+    font-size: 20px;
+}
+.block{
+    width: 100%;
+    height: 100px;
+}
+.c1{
+    background-color: #FC9E4F;
+}
+.Sweetnees{
+    color: red;
+}
+.w1{
+    background-color: #FF521B;
+}
+.e1{
+    background-color: #EDD382;
+}
+.r1{
+    background-color: #F2F3AE;
+}
+.qw{
+    background-color: #F2F3AE;
+    color: #FF521B;
+    text-align: center;
+    border: solid black 1px;
+    font-size: 30px;
+    font-family: 'Shadows Into Light', cursive;
+}
+.t1{
+    background-color: #020122;
+}
+.y1{
+    background-color: #DCDD9E;
+}
+.u1{
+    background-color: #A5A677;
+}
+.z{
+    color: #28112B;
+    background-color: #788475;
+    font-size: 30px;
+    font-family: 'Shadows Into Light', cursive;
+    border: black dashed 1px;
+    text-align: center;
+}
+.b{
+    color: #ADF7B6;
+    background-color:#79ADDC ;
+    font-size: 30px;
+    font-family: 'Shadows Into Light', cursive;
+    border: black dashed 1px;
+    text-align: center; 
+}
